@@ -226,7 +226,7 @@
 					<div class="col-md-3 col-xs-6">
 						<img src="images/image_1.jpg" class="img-responsive" style="padding: 20%;">
 					</div>';
-						for ($o=0; $o < 12; $o++) { 
+						for ($o=0; $o < 9; $o++) { 
 							# code...
 							echo $c;
 						}
